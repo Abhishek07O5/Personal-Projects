@@ -6,10 +6,15 @@
 ## Mods
 ### Toolhead
 BMG direct Drive
+
 E3DV6 volcano
+
 Pancake stepper motor
+
 Custom hydra fan duct with heat Heat set inserts and dual 5015 blower fans
+
 3D touch
+
 ADXL 345 accelerometer mount
 
 ### Bed carriage
