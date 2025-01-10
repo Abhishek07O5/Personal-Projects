@@ -19,8 +19,11 @@ ADXL 345 accelerometer mount
 
 ### Bed carriage
 Pei spring steel plate
+
 Silicone bed spacers
+
 Y carriage rod mounts with roller bearings 
+
 Y axis motor adaptor for bigger stepper motor
 
 ### Z axis
@@ -28,9 +31,12 @@ Kevinakasam's belted Z mod
 
 ### Enclosure
 Cardboard enclosure with mountboard tabs and acrylic sheet
+
 LED light strip
+
 HTU21D sensor 
 
 ### Toolhead speeds
 max speed 250mm/s
+
 max acceleration 4300 mm/s<sup>2</sup>
