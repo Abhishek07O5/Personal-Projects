@@ -28,4 +28,4 @@ HTU21D sensor
 
 ### Toolhead speeds
 max speed 250mm/s
-max acceleration 4.3kmm/s<sup>2</sup>
+max acceleration 4300 mm/s<sup>2</sup>
